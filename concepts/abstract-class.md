@@ -1,4 +1,4 @@
-# Classe Abstrata (Abstract Class)
+# Classe Abstrata (Abstract Class - ABC)
 
 ## O que é
 
